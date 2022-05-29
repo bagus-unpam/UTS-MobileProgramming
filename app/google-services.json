@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "886164444129",
+    "firebase_url": "https://android-restoran-15.firebaseio.com",
+    "project_id": "android-restoran-15",
+    "storage_bucket": "android-restoran-15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886164444129:android:c78d287b2b8342b1",
+        "android_client_info": {
+          "package_name": "com.programming.restoran.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886164444129-q1u0ne6jlera9qt1n7u710eudoapt2c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyxQDfXGtaaXoUOo5T3IFq17lZHVeXusg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
